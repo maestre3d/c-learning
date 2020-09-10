@@ -1,0 +1,3 @@
+/home/aruiz/code/c/learn1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/aruiz/code/c/learn1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/aruiz/code/c/learn1/cmake-build-debug/CMakeFiles/learn1.dir
